@@ -6,7 +6,17 @@
 
 The programming project is to be done in your group. The Git repository your entire group will use to submit the programming project should be set in Github. The name of repository will be set as the name of your team. (e.g. `osfall2016-team1`). This repository will be accessible to all members of your team, and all team members are expected to commit (local) and push (update the server) changes / contributions to the repository equally. You should become familiar with team-based shared repository Git commands such as [git-pull](http://www.kernel.org/pub/software/scm/git/docs/git-pull.html), [git-push](http://www.kernel.org/pub/software/scm/git/docs/git-push.html), [git-merge](http://www.kernel.org/pub/software/scm/git/docs/git-merge.html), [git-fetch](http://www.kernel.org/pub/software/scm/git/docs/git-fetch.html).
 
-You should create a base branch named _proj1_ for Project 1\. All team members should make at least _five_ commits to the team's Git repository. The point is to make incremental changes and use an iterative development cycle. Your final codes and README file have to be committed into the _proj1_ branch for submission. Follow the [Linux kernel coding style](http://www.kernel.org/doc/Documentation/CodingStyle) and check your commits with the [<font color="red">checkpatch.pl</font>](https://github.com/torvalds/linux/blob/master/scripts/checkpatch.pl) script. Errors from the script in your submission will cause a deduction of points.
+You should create a base branch named _proj1_ for Project 1\. All team members should make at least _five_ commits to the team's Git repository. The point is to make incremental changes and use an iterative development cycle. Your final codes and README file have to be committed into the _proj1_ branch for submission. 
+
+Your README file should include:
+
+1. How to build/run to test your code
+
+2. High-level design and implemenation
+
+3. Lessons learned
+
+Follow the [Linux kernel coding style](http://www.kernel.org/doc/Documentation/CodingStyle) and check your commits with the [<font color="red">checkpatch.pl</font>](https://github.com/torvalds/linux/blob/master/scripts/checkpatch.pl) script. Errors from the script in your submission will cause a deduction of points.
 
 The kernel programming for this assignment will be done using a Tizen-flashed TM1 device. Your Tizen device uses the ARM cpu family. Because the target CPU is (most likely) different from the CPU running in your personal computer, you will have to _cross-compile_ any software, including the linux kernel, to run on the different platform. We recommend using Ubuntu 12.04 LTS (64-bit), which we have tested all projects on. We do not guarantee that our guidelines work in other environments.
 
