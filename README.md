@@ -106,6 +106,7 @@ The kernel programming for this assignment will be done using a Tizen-flashed TM
 		# Build and make kernel module image (module.img) as well. (You can skip this after your first compilation)
 		
 		$ sudo ls
+		$ export CROSS_COMPILE="<extraction path>/opt/tizen-toolchain-4.9~git-i686_armv7l-tizen-linux-gnueabi-20151113/bin/armv7l-tizen-linux-gnueabi-"
 		$ scripts/mkmodimg.sh
 		
 		# Make a .tar archive from dzImage and modules.img
