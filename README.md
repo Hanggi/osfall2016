@@ -4,6 +4,8 @@
 
 ##### DUE: Monday ??/??/2016 at 8:59pm KST
 
+###### We strongly recommend you to use ubuntu 12.04 or 14.04 for all projects!!
+
 The programming project is to be done in your group. The Git repository your entire group will use to submit the programming project should be set in Github. The name of repository will be set as the name of your team. (e.g. `osfall2016-team1`). This repository will be accessible to all members of your team, and all team members are expected to commit (local) and push (update the server) changes / contributions to the repository equally. You should become familiar with team-based shared repository Git commands such as [git-pull](http://www.kernel.org/pub/software/scm/git/docs/git-pull.html), [git-push](http://www.kernel.org/pub/software/scm/git/docs/git-push.html), [git-merge](http://www.kernel.org/pub/software/scm/git/docs/git-merge.html), [git-fetch](http://www.kernel.org/pub/software/scm/git/docs/git-fetch.html).
 
 You should create a base branch named _proj1_ for Project 1\. All team members should make at least _five_ commits to the team's Git repository. The point is to make incremental changes and use an iterative development cycle. Your final codes and README file have to be committed into the _proj1_ branch for submission. 
