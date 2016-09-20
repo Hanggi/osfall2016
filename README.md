@@ -38,10 +38,10 @@ The kernel programming for this assignment will be done using a Tizen-flashed TM
 		
 		4.  When the installation is done, 'tizen-sdk' and 'tizen-sdk-data' folder will be created.
 		
-	2. Download prerequisites
+	2. Install lthor([Instruction for lthor](https://source.tizen.org/ko/documentation/reference/flash-device?langredirect=1)) & Download prerequisites.
 		
 		```
-		$ sudo apt-get install lthor ccache
+		$ sudo apt-get install ccache
 		
 		$ sudo apt-get install ia32-libs (for Ubuntu 12.04)
 		
