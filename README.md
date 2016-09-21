@@ -2,7 +2,7 @@
 
 #### OS Fall 2016
 
-##### DUE: Monday ??/??/2016 at 8:59pm KST
+##### DUE: 2016.10.5 Wednesday at 8:59pm KST
 
 ###### We strongly recommend you to use ubuntu 12.04 or 14.04 for all projects!!
 
