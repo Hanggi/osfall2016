@@ -1,6 +1,6 @@
-# Project 1
+# Project 1 forked
 
-#### OS Fall 2016
+#### OS Fall 2016 
 
 ##### DUE: 2016.10.5 Wednesday at 8:59pm KST
 
